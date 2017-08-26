@@ -1,0 +1,1 @@
+java -jar seckill-command-service-0.0.1-SNAPSHOT-exec.jar --server.port=8082

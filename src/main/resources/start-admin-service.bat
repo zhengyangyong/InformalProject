@@ -1,0 +1,1 @@
+java -jar seckill-admin-service-0.0.1-SNAPSHOT-exec.jar --server.port=8081

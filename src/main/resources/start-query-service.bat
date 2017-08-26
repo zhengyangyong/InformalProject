@@ -1,0 +1,1 @@
+java -jar seckill-query-service-0.0.1-SNAPSHOT-exec.jar --server.port=8083
